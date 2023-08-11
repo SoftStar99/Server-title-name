@@ -1,4 +1,4 @@
-# Server System - title / name
+# ServerSystem-title-name
 서버 내의 칭호 시스템과 이름 변경 시스템
 
 ## ⚙️ 시스템 소개
