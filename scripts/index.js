@@ -1,0 +1,1 @@
+import "./name&rank/_load.js"
