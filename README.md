@@ -9,6 +9,6 @@
 * 23.08.10일 - 22.08.12일
 
 ## 📌 주요 기능
-#### 칭호 - <a href="https://github.com/SoftStar99/Server-title-name.wiki.git" >상세보기</a>
+#### ✅칭호 - <a href="https://github.com/SoftStar99/Server-title-name/wiki" >상세보기</a>
 
-#### 이름 - <a href="https://github.com/SoftStar99/Server-title-name.wiki.git" >상세보기</a>
+#### ✅이름 - <a href="https://github.com/SoftStar99/Server-title-name/wiki" >상세보기</a>
