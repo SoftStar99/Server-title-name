@@ -1,7 +1,7 @@
 //처음 시작하면 freedom1 freedom2라는 태그가 없으니 칭호 뉴비와 이름은 자기 닉네임으로 고정됩니다. 칭호와 이름 아이템을 작동하면 각 각 freedom1 2의 태그가 주어지면서 고정해제
 
 
-import { system } from "@minecraft/server";
+import { system } from "@minecraft/server"
 import { world } from '@minecraft/server'
 import { ActionFormData, ModalFormData, MessageFormData } from '@minecraft/server-ui'
 
