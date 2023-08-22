@@ -30,6 +30,6 @@ world.beforeEvents.chatSend.subscribe((data) => {
   const ranks = getRanks(data.sender).join(" §r§f】 【§l ");
   const onames = getOnames(data.sender)
   const message = data.message;
-  default_display[0].clan_chat
+  default_display[0]
     world.sendMessage(`§f【 §l${ranks}§r§f 】 §r§f§l${onames} §f•§r ${message}`)
 });
