@@ -15,7 +15,7 @@ system.runInterval((data) => {
         ?.substring(5) ?? `${default_display[0].oname}`;
 
     
-    default_display[0].clan_nametag
+    default_display[0]
       player.nameTag = (`§7【 §f§l${playerRank}§r§7 】\n§f§l${playerOname}`);
   }
 }, 0);
